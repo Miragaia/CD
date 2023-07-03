@@ -1,0 +1,4 @@
+Criamos um protocol.pdf a explicar o funcionamento do protocol através de tabelas por pensarmos que se torna mais intuitivo e fácil de compreender.
+
+Miguel Miragaia 108317
+Gonçalo Lopes 107572
